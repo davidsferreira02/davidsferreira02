@@ -6,6 +6,8 @@
 </a>
 <a href="https://github.com/davidsferreira02">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidsferreira02&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <a href="https://github.com/davidsferreira02">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidsferreira02&theme=dark&hide_border=true" />
 </a>
 
 
